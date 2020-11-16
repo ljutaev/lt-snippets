@@ -21,7 +21,7 @@ class SignInController extends Controller
                         'Could not sigh you in with those details'
                     ]
                 ]
-           ]);
+            ], 422);
        }
        
        return response()->json([
