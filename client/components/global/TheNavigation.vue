@@ -2,7 +2,7 @@
     <div class="bg-white py-8 lg:py-0 flex items-center">
         <div class="container flex items-center flex-wrap lg:flex-no-wrap">
             <nuxt-link 
-                :to="{ name: 'home' }"
+                :to="{ name: 'index' }"
                 class="mr-10 flex-shrink-0"
             >
                 <img src="https://via.placeholder.com/180x50" alt="Logo" class="h-8">

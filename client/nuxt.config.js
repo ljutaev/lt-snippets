@@ -6,7 +6,8 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'client',
+    title: 'Snippets by Ljutaev',
+    titleTemplate: '%s - Snippets by Ljutaev',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
